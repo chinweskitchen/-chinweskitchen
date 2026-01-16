@@ -28,7 +28,7 @@ I use Power BI to create clear, business-focused reports that support data-drive
 
 ## 🌱 Currently Learning 
 
-- A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
+- Advanced machine learning techniques in Scikit-learn.]
 - Cloud data warehousing with Google BigQuery.]
 
 ## 🛠️ Technical Skillset
